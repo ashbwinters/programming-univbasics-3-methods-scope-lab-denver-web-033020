@@ -12,3 +12,9 @@ def link
   phrase = "It's Dangerous To Go Alone! Tke This."
   puts phrase
 end
+
+def all_phrases
+  mario
+  toadstool
+  link
+end
